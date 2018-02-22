@@ -1,0 +1,16 @@
+# Required gem source - RubyGems server
+source 'http://rubygems.org'
+
+gem 'capybara', '2.12.1'
+gem 'capybara-screenshot', '1.0.14'
+gem 'cucumber', '~> 2.4'
+gem 'gherkin', '4.0.0'
+gem 'rack', '2.0.1'
+gem 'rack-test', '0.6.3'
+gem 'rake', '12.0.0'
+gem 'rspec', '3.5.0'
+gem 'rspec-core', '3.5.4'
+gem 'rspec-expectations', '3.5.0'
+gem 'rspec-mocks', '3.5.0'
+gem 'rspec-support', '3.5.0'
+gem 'rubocop', '~> 0.47.0'
